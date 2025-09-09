@@ -1,3 +1,5 @@
+#Code written by MohammadJavad Vaez
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sys, os
 import mysql.connector
